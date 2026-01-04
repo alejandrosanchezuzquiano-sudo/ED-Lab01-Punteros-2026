@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Ejercicios de Punteros con Pascal
+message: >-
+  Estructuras de Datos. Grado en Ingeniería
+  del Software. Universidad Rey Juan Carlos. 
+type: software
+authors:
+  - given-names: 'Sergio '
+    family-names: Cavero
+    email: sergio.cavero@urjc.es
+    affiliation: Universidad Rey Juan Carlos
+    orcid: 'https://orcid.org/0000-0002-5258-5915'
+  - given-names: Salvador
+    family-names: 'Sanchez-Alonso '
+    orcid: 'https://orcid.org/0000-0002-9949-4797'
+    affiliation: Universidad Rey Juan Carlos
+    email: salvador.sanchez@urjc.es
+repository-code: >-
+  https://github.com/TeachingHub/ED-Lab01-Punteros-Template
+abstract: >-
+  Enunciados de ejercicios de punteros en Pascal en
+  distintos grados de dificultad. Desde problemas más
+  sencillos para trabajar los conceptos básicos de punteros
+  hasta ejercicios más elaborados en los que hay demostrar
+  soltura no solo con punteros, pero también con
+  programación en general. 
+keywords:
+  - pascal
+  - data-estructures
+  - pointers
+  - teaching
+license: MIT
