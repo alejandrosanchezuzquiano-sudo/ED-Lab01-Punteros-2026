@@ -5,7 +5,7 @@
 program PunterosEj1;
 
 uses
-    ctr;
+    crt;
 
 var
     { Declara variable entera (x) }
