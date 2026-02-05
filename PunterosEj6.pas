@@ -10,7 +10,6 @@ uses SysUtils;
 
 const
 
-writeln('Bienvenido a la Isla de la Tentación!');
 
 var
     {
