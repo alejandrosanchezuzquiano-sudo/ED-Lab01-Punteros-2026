@@ -10,7 +10,6 @@ type
 
 var
     P_Reg : ^TNodo;
-    TRegistro : TNodo;
 
 begin
     { Crea un nodo en memoria dinámica (heap) }
